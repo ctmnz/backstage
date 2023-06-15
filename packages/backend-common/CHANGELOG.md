@@ -1,5 +1,23 @@
 # @backstage/backend-common
 
+## 0.19.0-next.3
+
+### Patch Changes
+
+- eeb3f801fddf: `HostDiscovery` now strips trailing slashes in the `backend.baseUrl` config.
+- 810c6de51604: Remove unused dev dependency `aws-sdk-mock`.
+- Updated dependencies
+  - @backstage/backend-app-api@0.4.4-next.3
+  - @backstage/backend-plugin-api@0.5.3-next.3
+  - @backstage/config-loader@1.3.1-next.1
+  - @backstage/backend-dev-utils@0.1.1
+  - @backstage/cli-common@0.1.12
+  - @backstage/config@1.0.7
+  - @backstage/errors@1.2.0-next.0
+  - @backstage/integration@1.5.0-next.0
+  - @backstage/integration-aws-node@0.1.4-next.1
+  - @backstage/types@1.0.2
+
 ## 0.19.0-next.2
 
 ### Patch Changes

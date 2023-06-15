@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog-unprocessed-entities
 
+## 0.1.0-next.3
+
+### Patch Changes
+
+- 493eab8c577f: Use FetchApi instead of native fetch
+- Updated dependencies
+  - @backstage/core-components@0.13.2-next.4
+  - @backstage/catalog-model@1.4.0-next.2
+  - @backstage/core-plugin-api@1.5.2-next.0
+  - @backstage/errors@1.2.0-next.0
+  - @backstage/theme@0.4.0-next.1
+
 ## 0.1.0-next.2
 
 ### Patch Changes

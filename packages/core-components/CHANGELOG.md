@@ -1,5 +1,18 @@
 # @backstage/core-components
 
+## 0.13.2-next.4
+
+### Patch Changes
+
+- 4e697e88f0e2: Add resource utilization to Pod Drawer
+- b4cc4b1415e9: SupportButton auto focus first item when opened.
+- Updated dependencies
+  - @backstage/config@1.0.7
+  - @backstage/core-plugin-api@1.5.2-next.0
+  - @backstage/errors@1.2.0-next.0
+  - @backstage/theme@0.4.0-next.1
+  - @backstage/version-bridge@1.0.4
+
 ## 0.13.2-next.3
 
 ### Patch Changes
