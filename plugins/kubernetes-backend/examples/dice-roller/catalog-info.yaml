@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dice-roller
-  description: It rolls dice
+  description: It rolls dice. yes or no?
   tags:
     - go
   annotations:
